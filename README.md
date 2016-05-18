@@ -8,7 +8,7 @@
     phpize
     ./configure
 
-然后，下载 PHP 官方提供的基于该驱动的高级封装库 [mongo-php-library](https://github.com/mongodb/mongo-php-library)
+然后，使用 Composer 安装 PHP 官方提供的基于该驱动的高级封装库 [mongo-php-library](https://github.com/mongodb/mongo-php-library)
 
     composer require mongodb/mongodb
 
@@ -67,3 +67,5 @@ demo12
 - [MongoDB PHP Library Document](http://mongodb.github.io/mongo-php-library/)
 - [the-little-mongodb-book](https://github.com/ilivebox/the-little-mongodb-book)
 - [Driver Architecture and Internals](http://au1.php.net/manual/zh/mongodb.overview.php)
+- [SQL to Mongo Mapping Chart](http://php.net/manual/en/mongo.sqltomongo.php)
+- [SQL to MongoDB Mapping Chart](https://docs.mongodb.com/manual/reference/sql-comparison/)
