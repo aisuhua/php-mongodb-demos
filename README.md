@@ -69,3 +69,4 @@ demo12
 - [Driver Architecture and Internals](http://au1.php.net/manual/zh/mongodb.overview.php)
 - [SQL to Mongo Mapping Chart](http://php.net/manual/en/mongo.sqltomongo.php)
 - [SQL to MongoDB Mapping Chart](https://docs.mongodb.com/manual/reference/sql-comparison/)
+- [MongoDB学习整理](http://webfuse.cn/2016/05/26/MongoDB%E5%AD%A6%E4%B9%A0%E6%95%B4%E7%90%86/)
